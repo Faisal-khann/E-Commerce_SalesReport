@@ -10,12 +10,11 @@
 ## 📌 Table of Contents
 - [Project Overview](#project-Overview)
 - [Project Objective](#Project-Objective)
-- [Business Questions & Analysis Goals](#Business-Questions-&-Analysis-Goals)
+- [Business Questions & Analysis Goals](#Business-Questions--Analysis-Goals)
 - [Scope](#Scope)
 - [Dashboard Preview](#Dashboard-Preview)
 - [Dashboard Overview](#Dashboard-Overview)
 - [Analysis and Insights](#Analysis-and-Insights)
-- [Key Insights](#Key-Insights)
 - [Recommendations](#Recommendations)
 - [Business Questions Answered](#Business-Questions-Answered)
 - [Actionable Business Intelligence](#Actionable-Business-Intelligence)
@@ -112,7 +111,7 @@ This project aims to explore and analyze sales data to answer the following key 
 
 ### Orders vs Sales
 - Line and column chart showing monthly total sales and order counts.
-- **Peak sales:** February
+- **Peak sales:** March
 - **Trend:** Slight decline mid-year, stabilization toward year-end.
 
 ### Sales: Men vs Women
@@ -150,14 +149,6 @@ This project aims to explore and analyze sales data to answer the following key 
   4. Telangana: 1.71M
   5. Tamil Nadu: 1.68M
 - **Insight:** Regional marketing should focus on Maharashtra and Karnataka.
-
----
-
-## Key Insights
-- Women are the primary customer segment, particularly adults.
-- Amazon is the leading sales channel.
-- Maharashtra and Karnataka are top-performing states.
-- High delivery success rate; minor returns/cancellations need attention.
 
 ---
 
