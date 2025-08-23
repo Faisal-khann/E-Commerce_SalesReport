@@ -1,20 +1,22 @@
-# 📈 Retail Analytics Dashboard – Annual Business Review 2024
+# Retail Analytics Dashboard – Annual Business Review 2024
 
-The **Retail Analytics Dashboard – Annual Business Review 2024** delivers a comprehensive overview of customer orders, revenue trends, sales channels, and demographic breakdowns. Built for decision-makers, this interactive Excel dashboard enables data-driven planning and performance evaluation.
+<em>The **Retail Analytics Dashboard – Annual Business Review 2024** delivers a comprehensive overview of customer orders, revenue trends, sales channels, and demographic breakdowns. Built for decision-makers, this interactive Excel dashboard enables data-driven planning and performance evaluation.</em>
 
-🔗 **[View the Dashboard](https://1drv.ms/x/c/ddc017ae00df4591/EWd1x6mv6lxHpBsL00lgEVAB2qKTWZXRnEWza9RxGmrdVQ?e=ZEqOcm)**
+🔗 **[View the Dashboard](https://1drv.ms/x/c/ddc017ae00df4591/IQRR0d5-AfDPQKfclPKCb2RpAZRYW3eMTQUHLNcRAWh-9so?em=2&AllowTyping=True&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True
+)**
 
 ---
 
-## 📌 Project Overview
+
+## Project Overview
 
 Designed to support **monthly and quarterly business reviews**, this dashboard brings together key sales data and demographic insights in a clean, interactive layout, making it ideal for stakeholders across departments.
 
 ---
 
-## ✨ Key Highlights
+## Key Highlights
 
-### 📊 Dynamic Filtering
+### Dynamic Filtering
 
 - **Slicers** added for:
   - Months
@@ -25,28 +27,28 @@ These allow users to explore the data from multiple perspectives.
 
 ---
 
-### 🧮 Insights Uncovered
+### Insights Uncovered
 
-- 🏆 **Top-Performing States:**  
+- **Top-Performing States:**  
   - Maharashtra  
   - Karnataka
 
-- 👩‍🦰 **Gender Trends:**  
+- **Gender Trends:**  
   - Women contributed to **64% of total sales**
 
-- 🛒 **Sales Channels:**  
+- **Sales Channels:**  
   - Amazon led with **35% of all orders**
 
 ---
 
-## 📈 Actionable Business Intelligence
+## Actionable Business Intelligence
 
 - Pinpointed **underperforming states and segments** for better targeting
 - Analyzed **age-based buying patterns** to optimize future campaigns and offerings
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Microsoft Excel**
   - Pivot Tables
@@ -57,18 +59,19 @@ These allow users to explore the data from multiple perspectives.
 
 ---
 
-## 💼 Business Use Case
+## Business Use Case
 
 This dashboard is valuable for:
 
-- ✅ Monthly & Quarterly Reports  
-- ✅ Regional Sales Analysis  
-- ✅ Customer Demographics Exploration  
-- ✅ Strategic Campaign Planning  
+- Monthly & Quarterly Reports  
+- Regional Sales Analysis  
+- Customer Demographics Exploration  
+- Strategic Campaign Planning  
 
 ---
 
 ## 📸 Dashboard Preview
-
-> _Add a screenshot of the dashboard in the `images/` folder and reference it here:_
+<div>
+  <img width="1089" height="449" alt="Image" src="https://github.com/user-attachments/assets/601342cb-0a4b-4c79-a43e-a386d79f60be" />
+</div>
 
