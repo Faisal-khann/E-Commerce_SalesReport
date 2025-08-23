@@ -14,7 +14,7 @@
 - [Scope](#Scope)
 - [Dashboard Preview](#Dashboard-Preview)
 - [Dashboard Overview](#Dashboard-Overview)
-- [Analysis & Insights](#Analysis-&-Insights)
+- [Analysis and Insights](#Analysis-and-Insights)
 - [Key Insights](#Key-Insights)
 - [Recommendations](#Recommendations)
 - [Business Questions Answered](#Business-Questions-Answered)
@@ -108,7 +108,7 @@ This project aims to explore and analyze sales data to answer the following key 
 - **Sales: Top 5 States** – Bar chart ranking states by total revenue contribution.
 ---
 
-## Analysis & Insights
+## Analysis and Insights
 
 ### Orders vs Sales
 - Line and column chart showing monthly total sales and order counts.
