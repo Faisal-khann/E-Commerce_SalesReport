@@ -1,8 +1,8 @@
-# Retail Analysis – Annual Business Review 2022
+# Annual sales report - 2022
 
-<em>The **SalesReport – Annual Business Review 2022** delivers a comprehensive overview of customer orders, revenue trends, sales channels, and demographic breakdowns. Built for decision-makers, this interactive Excel dashboard enables data-driven planning and performance evaluation.</em>
+<em>The **Annual Business Review 2022** delivers a comprehensive overview of customer orders, revenue trends, sales channels, and demographic breakdowns. Built for decision-makers, this interactive Excel dashboard enables data-driven planning and performance evaluation.</em>
 
-🔗 **[View the Dashboard](https://1drv.ms/x/c/ddc017ae00df4591/IQRGsgBztGe2QaVo-IG7t6bsAQYGrWNaZuk-7rE78VkoT64?em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True
+🔗 **[View the Dashboard](https://1drv.ms/x/c/ddc017ae00df4591/IQRo3oSnNfVsTYNximeEGTotATKoF9xTmlnyv66LMP4zq88?em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True
 )**
 
 ---
