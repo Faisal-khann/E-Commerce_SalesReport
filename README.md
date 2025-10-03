@@ -92,7 +92,7 @@ This project aims to explore and analyze sales data to answer the following key 
 ---
 ## Dashboard Preview
 <div>
-  <img width="1089" height="449" alt="Image" src="https://github.com/user-attachments/assets/601342cb-0a4b-4c79-a43e-a386d79f60be" />
+  <img width="1645" height="541" alt="Image" src="https://github.com/user-attachments/assets/59682c59-066b-4bd7-8e4b-666d9e0b8026" />
 </div>
 
 <em>This dashboard provides a detailed analysis of Malik Store's sales performance in 2022, answering key business questions related to customers, orders, and channels.</em>
