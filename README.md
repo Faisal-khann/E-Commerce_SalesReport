@@ -2,8 +2,8 @@
 
 <em>The **Annual Business Review 2022** delivers a comprehensive overview of customer orders, revenue trends, sales channels, and demographic breakdowns. Built for decision-makers, this interactive Excel dashboard enables data-driven planning and performance evaluation.</em>
 
-🔗 **[View the Dashboard](https://1drv.ms/x/c/ddc017ae00df4591/IQRo3oSnNfVsTYNximeEGTotATKoF9xTmlnyv66LMP4zq88?em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True
-)**
+[![View Dashboard](https://img.shields.io/badge/View_Dashboard-Click_Here-blue?style=for-the-badge&logo=microsoft-excel)](https://1drv.ms/x/c/ddc017ae00df4591/IQRo3oSnNfVsTYNximeEGTotATKoF9xTmlnyv66LMP4zq88?em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True)
+
 
 ---
 
